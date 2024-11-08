@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\bin\Debug\UnitTestEasy.exe.config
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\bin\Debug\UnitTestEasy.exe
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\bin\Debug\UnitTestEasy.pdb
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\obj\Debug\UnitTestEasy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\obj\Debug\UnitTestEasy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\obj\Debug\UnitTestEasy.exe
+C:\Users\user\source\repos\UnitTestEasy\UnitTestEasy\obj\Debug\UnitTestEasy.pdb

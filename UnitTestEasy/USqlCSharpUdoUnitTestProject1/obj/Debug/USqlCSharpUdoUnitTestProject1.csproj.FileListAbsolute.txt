@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\USqlCSharpUdoUnitTestProject1.pdb
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\UnitTestEasy.exe
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\UnitTestEasy.pdb
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\UnitTestEasy.exe.config
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.csproj.CopyComplete
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.dll
+C:\Users\user\source\repos\UnitTestEasy\USqlCSharpUdoUnitTestProject1\obj\Debug\USqlCSharpUdoUnitTestProject1.pdb
